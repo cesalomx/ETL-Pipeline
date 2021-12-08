@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cesalomx
+- 👋 Hi, I’m Cesar Santos
 - 👀 I’m interested in Data Engineering
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ... ETL Processes, Data Analysis, Business Intelligence.
