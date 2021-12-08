@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cesalomx
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Data Engineering
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ... ETL Processes, Data Analysis, Business Intelligence.
 - 📫 How to reach me 4426101069 & cesalomx@hotmail.com
