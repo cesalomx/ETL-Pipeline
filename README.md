@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 
 # ETL Vivanuncios.com.mx Pipeline
 
-The main purpose of this project is to develop a sqlite database storing data extracted from vivanuncios.com.mx. The first step is to extract specific data by doing some web-scraping using selenium & scrapy and then, as a second step, append it to a sqlite database by running a pipeline.
+The main purpose of this project is to develop a sqlite database storing data extracted from vivanuncios.com.mx, specificaly Querétaro. The first step is to extract specific data by doing some web-scraping using selenium & scrapy and then, as a second step, append it to a sqlite database by running a pipeline.
 
 ## Installation
 
