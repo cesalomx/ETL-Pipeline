@@ -25,6 +25,7 @@ pip install scrapy_selenium
 
 * homes.py: _Main python file which contains the code to fetch the data from vivanuncios.com.mx_
 * pipeline.py: _a simple function to execute the ETL process in homes.py_
+* settings.py _this file contains only settings considered important or commonly used._
 
 ## To run the spider:
 ```
