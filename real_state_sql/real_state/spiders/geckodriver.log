@@ -1,0 +1,18 @@
+1641853114094	geckodriver	INFO	Listening on 127.0.0.1:58725
+1641853117195	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\Cesal\\AppData\\Local\\Temp\\rust_mozprofilepiM7Yg"
+*** You are running in headless mode.
+1641853118016	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Cesal\\AppData\\Local\\Temp\\rust_mozprofilepiM7Yg\\search.json.mozlz4", (void 0)))
+1641853120708	Marionette	INFO	Listening on port 58734
+1641853121012	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.vivanuncios.com.mx/cms/assets/js, line 40: TypeError: window.google.maps is undefined
+JavaScript error: https://www.vivanuncios.com.mx/cms/assets/js, line 40: TypeError: window.google.maps is undefined
+JavaScript error: https://www.vivanuncios.com.mx/cms/assets/js, line 40: TypeError: window.google.maps is undefined
+JavaScript error: https://www.vivanuncios.com.mx/cms/assets/js, line 40: TypeError: window.google.maps is undefined
+JavaScript error: https://www.vivanuncios.com.mx/cms/assets/js, line 40: TypeError: window.google.maps is undefined
+JavaScript error: https://www.vivanuncios.com.mx/cms/assets/js, line 40: TypeError: window.google.maps is undefined
+JavaScript error: https://www.vivanuncios.com.mx/cms/assets/js, line 40: TypeError: window.google.maps is undefined
+JavaScript error: https://www.vivanuncios.com.mx/cms/assets/js, line 40: TypeError: window.google.maps is undefined
+JavaScript error: https://www.vivanuncios.com.mx/cms/assets/js, line 40: TypeError: window.google.maps is undefined
+JavaScript error: https://www.vivanuncios.com.mx/cms/assets/js, line 40: TypeError: window.google.maps is undefined
