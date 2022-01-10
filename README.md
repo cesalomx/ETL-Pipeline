@@ -10,7 +10,7 @@ The main purpose of this project is to develop a sqlite database storing data ex
 
 ## Installation
 
-In order to run this spider, it is mandatory to have the following libraries install:
+In order to run this spider, it is mandatory to have the following libraries installed:
 
 ```bash
 pip install scrapy
