@@ -27,3 +27,4 @@ pip install scrapy_selenium
 ```
 scrapy crawl homes
 ```
+![database_output_image](https://user-images.githubusercontent.com/63975528/148864935-fa823b1c-9127-456d-a774-6e39dd814db4.jpg)
